@@ -1,0 +1,2 @@
+CREATE OR REPLACE VIEW v_keys AS
+SELECT * FROM tbl_keys;

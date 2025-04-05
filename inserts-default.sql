@@ -1,0 +1,1 @@
+INSERT INTO tbl_keys (encrypt) VALUES ('wVVO1oq2Q9h1fjJ5LOnK');
